@@ -1,0 +1,8 @@
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SimpleCalculatorCsharp\SimpleCalculatorCsharp\bin\Debug\SimpleCalculatorCsharp.exe
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SimpleCalculatorCsharp\SimpleCalculatorCsharp\bin\Debug\SimpleCalculatorCsharp.pdb
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SimpleCalculatorCsharp\SimpleCalculatorCsharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SimpleCalculatorCsharp\SimpleCalculatorCsharp\obj\Debug\SimpleCalculatorCsharp.Form1.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SimpleCalculatorCsharp\SimpleCalculatorCsharp\obj\Debug\SimpleCalculatorCsharp.Properties.Resources.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SimpleCalculatorCsharp\SimpleCalculatorCsharp\obj\Debug\SimpleCalculatorCsharp.csproj.GenerateResource.Cache
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SimpleCalculatorCsharp\SimpleCalculatorCsharp\obj\Debug\SimpleCalculatorCsharp.exe
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SimpleCalculatorCsharp\SimpleCalculatorCsharp\obj\Debug\SimpleCalculatorCsharp.pdb
